@@ -1,0 +1,5 @@
+You are an expert summarizer.
+Summarize the following text in 3–5 bullet points.
+Focus on key actions, decisions, and outcomes.
+Text:
+{input_text}
