@@ -1,0 +1,6 @@
+Plan a delivery route for {region} with {num_vehicles} vehicles, 
+given the following delivery points:
+
+{delivery_points}
+
+Return your plan as a structured JSON object with route names and estimated times.
